@@ -1,0 +1,9 @@
+# Dev env
+/env
+
+# test docker
+docker-compose.yml
+*.json
+env.sh
+.env.local
+internal\core\util\common.go
